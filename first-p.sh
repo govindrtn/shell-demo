@@ -1,5 +1,4 @@
 
-
 echo "hello world"
 
 num1=43
@@ -19,6 +18,14 @@ sub=$((num1-num2))
 
 echo $sub
 
+///////"Division"///////
+
+num1=30
+num2=3
+
+sub=$((num1/num2))
+
+echo $div
 
 ///////"Multiliplication"////////
 
